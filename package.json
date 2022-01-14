@@ -1,6 +1,6 @@
 {
-  "name": "poc-web-components-svelte",
-  "version": "1.0.0",
+  "name": "@carrascomorigino-tranzact/poc-web-components-svelte",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
