@@ -1,3 +1,3 @@
 import CounterSvelte from './components/counter.svelte';
 
-customElements.define('counter-svelte', CounterSvelte);
+customElements.define('svelte-counter', CounterSvelte);
